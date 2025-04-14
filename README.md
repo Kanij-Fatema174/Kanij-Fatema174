@@ -1,6 +1,6 @@
 
 
-www.reallygreatsite.com.png
+https://builtin.com/sites/www.builtin.com/files/2022-09/ai-vs-machine-learning.jpg
 # Hi there 👋, I'm Kanij
 ### I'm a tech enthusiast passionate about Machine Learning, AI, and currently diving deep into Web Development.
 
