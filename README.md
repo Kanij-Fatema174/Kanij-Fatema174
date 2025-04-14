@@ -5,7 +5,7 @@
 ### I'm a tech enthusiast passionate about Machine Learning, AI, and currently diving deep into Web Development.
 
 
-Hello! I'm a final year Student of East West University from CSE Department. I'd like to work with machine learning model & Database management system.
+
 
 
 Skills: HTML / CSS / JS / REACT
