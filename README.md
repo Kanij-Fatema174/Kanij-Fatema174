@@ -1,15 +1,22 @@
-## Hi there 👋
 
 
-**Kanij-Fatema174/Kanij-Fatema174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Web Developer](https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)
+# Hi there 👋, I'm Kanij
+### I'm a tech enthusiast passionate about Machine Learning, AI, and currently diving deep into Web Development.
+![Web Developer](https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)
 
-Here are some ideas to get you started:
+Hello! I'm a final year Student of East West University from CSE Department. I'd like to work with machine learning model & Database management system.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+Skills: HTML / CSS / JS / REACT
+
+- 🔭 I’m currently working on various project based on machine learning and AI and more. 
+- 👯 I’m looking to collaborate on Github 
+- 💬 Ask me about Machine learning, web developement and dataset concept 
+- 📫 How to reach me: kanijfatema20204@gmail.com 
+- ⚡ Fun fact: I love exploring different different dataset and train model and visualize data. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Kanij-Fatema174)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/feed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/)  
+
+
