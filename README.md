@@ -1,6 +1,5 @@
 
-![Web Developer](https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)
-
+https://media.istockphoto.com/id/1273072739/vector/machine-learning-banner-logo-for-technology-ai-big-data-algorithm-neural-network-deep.jpg?s=170667a&w=0&k=20&c=Ts1g-ZmfulPB5yyd-MjhbGnp8O1OlktclyFFZRiZKjg=
 # Hi there 👋, I'm Kanij
 ### I'm a tech enthusiast passionate about Machine Learning, AI, and currently diving deep into Web Development.
 
