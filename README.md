@@ -1,6 +1,6 @@
 
 
-![Web Developer](https://t4.ftcdn.net/jpg/02/83/46/33/360_F_283463385_mfnrx6RPU3BqObhVuVjYZjeZ5pegE7xq.jpg)
+www.reallygreatsite.com.png
 # Hi there 👋, I'm Kanij
 ### I'm a tech enthusiast passionate about Machine Learning, AI, and currently diving deep into Web Development.
 
