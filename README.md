@@ -1,4 +1,4 @@
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fmachine-learning-banner-logo-for-technology-ai-big-data-algorithm-neural-network-gm1273072739-375131265&psig=AOvVaw1Tbs7y6JIBITZqBQiCEUQ3&ust=1744695806787000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCuzL_o1owDFQAAAAAdAAAAABAQ
+
 
 # Hi there 👋, I'm Kanij
 ## Web Developer
