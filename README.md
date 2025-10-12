@@ -12,7 +12,7 @@ Skills: HTML / CSS / JS / REACT
 - 🔭 I’m currently working on various project based on machine learning and AI and more. 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Machine learning, web developement and dataset concept 
-- 📫 How to reach me: kanijfatema20204@gmail.com 
+- 📫 How to reach me: kanij5498@gmail.com 
 - ⚡ Fun fact: I love exploring different different dataset and train model and visualize data. 
 
 
